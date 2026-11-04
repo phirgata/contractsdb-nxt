@@ -13,3 +13,4 @@ Technologies:
 - SQLLite
 - Entity Framework
 - Material
+- Unit tests
